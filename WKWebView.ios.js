@@ -12,7 +12,6 @@ import ReactNative, {
   NativeModules,
   Text,
   ActivityIndicator,
-  ViewPropTypes
 } from 'react-native';
 
 import resolveAssetSource from 'react-native/Libraries/Image/resolveAssetSource';
